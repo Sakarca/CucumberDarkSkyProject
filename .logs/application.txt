@@ -1,0 +1,38 @@
+2020-04-06 23:49:01,020  INFO [main] SharedSD:20 - ******************************
+2020-04-06 23:49:01,026  INFO [main] SharedSD:21 - Test setup!
+2020-04-06 23:49:17,884  INFO [main] SharedSD:38 - Cleanup!
+2020-04-06 23:49:17,885  INFO [main] SharedSD:39 - Test completed!
+2020-04-06 23:49:17,887  INFO [main] SharedSD:41 - ********************************
+2020-04-06 23:49:18,088  INFO [main] SharedSD:20 - ******************************
+2020-04-06 23:49:18,089  INFO [main] SharedSD:21 - Test setup!
+2020-04-06 23:49:25,175 ERROR [main] SharedSD:33 - Test failed!
+2020-04-06 23:49:26,559  INFO [main] SharedSD:41 - ********************************
+2020-04-06 23:56:23,649  INFO [main] SharedSD:20 - ******************************
+2020-04-06 23:56:23,655  INFO [main] SharedSD:21 - Test setup!
+2020-04-06 23:56:39,238  INFO [main] SharedSD:38 - Cleanup!
+2020-04-06 23:56:39,239  INFO [main] SharedSD:39 - Test completed!
+2020-04-06 23:56:39,239  INFO [main] SharedSD:41 - ********************************
+2020-04-06 23:56:39,460  INFO [main] SharedSD:20 - ******************************
+2020-04-06 23:56:39,460  INFO [main] SharedSD:21 - Test setup!
+2020-04-06 23:56:44,406 ERROR [main] SharedSD:33 - Test failed!
+2020-04-06 23:56:45,127  INFO [main] SharedSD:41 - ********************************
+2020-04-07 00:00:04,783  INFO [main] SharedSD:20 - ******************************
+2020-04-07 00:00:04,788  INFO [main] SharedSD:21 - Test setup!
+2020-04-07 00:00:19,846  INFO [main] SharedSD:38 - Cleanup!
+2020-04-07 00:00:19,846  INFO [main] SharedSD:39 - Test completed!
+2020-04-07 00:00:19,847  INFO [main] SharedSD:41 - ********************************
+2020-04-07 00:00:20,043  INFO [main] SharedSD:20 - ******************************
+2020-04-07 00:00:20,043  INFO [main] SharedSD:21 - Test setup!
+2020-04-07 00:00:24,492  INFO [main] SharedSD:38 - Cleanup!
+2020-04-07 00:00:24,492  INFO [main] SharedSD:39 - Test completed!
+2020-04-07 00:00:24,493  INFO [main] SharedSD:41 - ********************************
+2020-04-07 00:13:01,769  INFO [main] SharedSD:20 - ******************************
+2020-04-07 00:13:01,776  INFO [main] SharedSD:21 - Test setup!
+2020-04-07 00:13:18,232  INFO [main] SharedSD:38 - Cleanup!
+2020-04-07 00:13:18,233  INFO [main] SharedSD:39 - Test completed!
+2020-04-07 00:13:18,233  INFO [main] SharedSD:41 - ********************************
+2020-04-07 00:13:18,432  INFO [main] SharedSD:20 - ******************************
+2020-04-07 00:13:18,433  INFO [main] SharedSD:21 - Test setup!
+2020-04-07 00:13:23,077  INFO [main] SharedSD:38 - Cleanup!
+2020-04-07 00:13:23,078  INFO [main] SharedSD:39 - Test completed!
+2020-04-07 00:13:23,079  INFO [main] SharedSD:41 - ********************************
