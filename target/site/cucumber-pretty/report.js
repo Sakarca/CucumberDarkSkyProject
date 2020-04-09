@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 6968604093,
+  "duration": 7260806756,
   "status": "passed"
 });
 formatter.background({
@@ -32,7 +32,7 @@ formatter.match({
   "location": "DarkSkyHomeSD.verifyHomePage()"
 });
 formatter.result({
-  "duration": 1572412304,
+  "duration": 1566363951,
   "status": "passed"
 });
 formatter.scenario({
@@ -69,22 +69,22 @@ formatter.match({
   "location": "DarkSkyHomeSD.verifyChosenLocation(String)"
 });
 formatter.result({
-  "duration": 5340163727,
+  "duration": 5356632307,
   "status": "passed"
 });
 formatter.match({
   "location": "DarkSkyHomeSD.verifyTimelineFormat()"
 });
 formatter.result({
-  "duration": 2677799222,
+  "duration": 2680374061,
   "status": "passed"
 });
 formatter.after({
-  "duration": 196640114,
+  "duration": 177488604,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3407170006,
+  "duration": 3179139126,
   "status": "passed"
 });
 formatter.background({
@@ -103,7 +103,7 @@ formatter.match({
   "location": "DarkSkyHomeSD.verifyHomePage()"
 });
 formatter.result({
-  "duration": 1014426083,
+  "duration": 1009284407,
   "status": "passed"
 });
 formatter.scenario({
@@ -134,18 +134,18 @@ formatter.match({
   "location": "DarkSkyHomeSD.expandToday()"
 });
 formatter.result({
-  "duration": 42959673,
+  "duration": 2055493037,
   "status": "passed"
 });
 formatter.match({
   "location": "DarkSkyHomeSD.verifyTempValues()"
 });
 formatter.result({
-  "duration": 163988194,
+  "duration": 117281638,
   "status": "passed"
 });
 formatter.after({
-  "duration": 122879623,
+  "duration": 136905208,
   "status": "passed"
 });
 });

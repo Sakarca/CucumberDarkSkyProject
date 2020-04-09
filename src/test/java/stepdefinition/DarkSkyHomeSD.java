@@ -29,8 +29,9 @@ public class DarkSkyHomeSD {
 
     }
     @When("^I expand today's timeline$")
-    public void expandToday(){
+    public void expandToday() throws InterruptedException {
         darkSky.expandToday();
+        Thread.sleep(2000);
     }
 
     @Then("^I verify lowest and highest temp is displayed correctly$")

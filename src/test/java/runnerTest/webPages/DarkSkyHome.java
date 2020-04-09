@@ -18,8 +18,8 @@ public class DarkSkyHome extends ElementUtil{
     private By temp= By.xpath("//div[@class='dayDetails revealed']//span[contains(@style,'opacity')]");
     private By minTop = By.xpath("//span[@class='low-temp-text']");
     private By maxTop = By.xpath("//span[@class='high-temp-text']");
-    private By minTemp=By.xpath("//a[@data-day='0']//span[@class='minTemp']");
-    private By maxTemp=By.xpath("//a[@data-day='0']//span[@class='maxTemp']");
+    private By minTemp=By.xpath("//div[@class='dayDetails revealed']//span[@class='highTemp swip']//span[@class='temp']");
+    private By maxTemp=By.xpath("//div[@class='dayDetails revealed']//span[@class='lowTemp swap']//span[@class='temp']");
 
     public String getDarkSkyPageTitle() throws InterruptedException {
         Thread.sleep(1000);

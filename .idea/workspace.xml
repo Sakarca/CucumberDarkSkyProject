@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2168930c-5024-457f-9d04-1712ebae3dec" name="Default Changelist" comment="" />
+    <list default="true" id="2168930c-5024-457f-9d04-1712ebae3dec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.logs/application.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.logs/application.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runnerTest/webPages/DarkSkyHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runnerTest/webPages/DarkSkyHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinition/DarkSkyHomeSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/DarkSkyHomeSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinition/DarkSkyHomeSD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinition/DarkSkyHomeSD.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1a7zWNRYrJgG9p5zkZ1mbfaCtFu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -69,26 +81,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1192" height="363" key="GridCell.Tab.0.bottom" timestamp="1586232777120">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1235" height="262" key="GridCell.Tab.0.bottom" timestamp="1586366852303">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1192" height="363" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1586232000635" />
+    <state width="1235" height="262" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1586366852303" />
     <state width="1192" height="363" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1586232777120" />
-    <state width="1192" height="363" key="GridCell.Tab.0.center" timestamp="1586232777115">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="919" height="57" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1586271318435" />
+    <state width="1235" height="262" key="GridCell.Tab.0.center" timestamp="1586366852301">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1192" height="363" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1586232000634" />
+    <state width="1235" height="262" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1586366852301" />
     <state width="1192" height="363" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1586232777115" />
-    <state width="1192" height="363" key="GridCell.Tab.0.left" timestamp="1586232777113">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="919" height="57" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1586271318434" />
+    <state width="1235" height="262" key="GridCell.Tab.0.left" timestamp="1586366852300">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1192" height="363" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1586232000633" />
+    <state width="1235" height="262" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1586366852300" />
     <state width="1192" height="363" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1586232777113" />
-    <state width="1192" height="363" key="GridCell.Tab.0.right" timestamp="1586232777116">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="919" height="57" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1586271318433" />
+    <state width="1235" height="262" key="GridCell.Tab.0.right" timestamp="1586366852302">
+      <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state width="1192" height="363" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1586232000634" />
+    <state width="1235" height="262" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1586366852302" />
     <state width="1192" height="363" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1586232777116" />
+    <state width="919" height="57" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1586271318434" />
     <state x="239" y="23" key="SettingsEditor" timestamp="1586231235775">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
